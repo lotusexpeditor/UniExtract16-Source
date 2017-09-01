@@ -1,0 +1,64 @@
+Todo:
+
+update language files
+remove i*comp? - http://www.msfn.org/board/topic/136743-zddll-license/
+
+7z support for UDF, XAR, DMG/HFS ?
+7z support for nifs, fat, vhd, mbr?
+7z support for gzip, bzip2, lzma, xz, tar from stdin?
+7z support for mslz?
+7z support for swf, flv?
+7z support for APM?
+
+improve 7-zip generic .exe resource extraction
+
+fix height of Program Options UI in installer - add vertical scrollbar?
+
+fix success evaluation - http://www.msfn.org/board/topic/143862-uniextract-161-in-development-info-requested/page__view__findpost__p__922518
+investigate archive listing - req 44
+7z sfx script extraction - req 46
+leave uniextract open after extraction - req 48
+Exeinfo PE as replacement for PEiD - req 51
+add option to delete after successful extraction?  - req 51
+improve context menu integration in Windows 7 - req 51
+LinMSI - req 51
+
+include menu bar in dropzone for files - doesn't seem possible
+investigate clickstream installer format
+change from MHT Unpacker to http://www.totalcmd.net/plugring/MhtUnPack.html
+update notification - http://www.kcsoftwares.com/index.php?sumo - 858
+new MSI unpacker - http://www.jsware.net/jsware/msicode.php3 - 832
+new CD image converter - http://iat.berlios.de/ - 832
+address Chinese lang file rename (duplicates) - 702
+examine other language file - 700
+
+fix noun/adjective order support for translations
+add option to not display foreground extraction box?
+add support for Spoon Installer (http://sourceforge.net/projects/spoon-installer/)
+command line automation - 775
+add association options to UniExtract in addition to installer
+vmunpacker - packed file decompressor (http://unpacking.narod.ru/unpackers/universal/VMUnpacker1.2.rar)
+super - 703
+support .dmg with DMGExtractor. - 738
+Amiga formats - 718
+additional unpackers (plus check some older stuff) - 723
+additional unpackers - 735
+new unpackers to test - 569
+support LiberalInstaller - 562 (probably not possible)
+add unshield.exe for InstallShield cabs - 558
+allow testing of multiple filetypes from TrID scan
+add cascaded context menu (what about cmenu?) - 447, 524
+add useful functionality to tray icon? - 503
+add more exe unpackers? - 484
+support multiple file extraction - 502
+Add option to copy rather than move temporary files - 439
+force "completed" message box to always be on top - 431
+add multiple aspack decompressors
+fix context-menu integration for limited users (HKCR issue) - comment 304
+separate associated file types for Windows Explorer sorting? - comment 116
+Incorporate output within AutoIt GUI rather than spawning external shell(s)
+add option to open destination folder after extraction - comment 193
+figure out how to display and provide input for confirmation prompts
+new formats? - Dragon UnPACKer, Game Extractor, Quick Unpack - 405
+new formats? - MultiExtractor - 395
+aspack - Stripper - 364, RL!deASPack 2.x - 359
